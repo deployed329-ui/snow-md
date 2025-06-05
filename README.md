@@ -48,7 +48,7 @@
 ## 🚀 Deploy Easily SNOW-MD ⚡
 
 ### 🔗 Get Pairing Code
-[![Pairing Code](https://img.shields.io/badge/Get%20Pairing%20Code-B700FB?style=for-the-badge&logo=codefactor&logoColor=white)](https://damon-md-session-by-hacker1208.onrender.com)
+[![Pairing Code](https://img.shields.io/badge/INCONNU%20-XD%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://inconnu-boy-tech-web.onrender.com/)
 
 
 ## 📦 Fork This Repository
